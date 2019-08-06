@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "asdfgc",
+      "id": 1
+    },
+    {
+      "title": "me",
+      "description": "Refactor",
+      "id": 2
+    }
+  ]
+}
